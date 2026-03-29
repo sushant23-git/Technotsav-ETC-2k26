@@ -1,0 +1,351 @@
+[
+  {
+    "name": "SKYNETRA 2026",
+    "type": "Technical",
+    "tags": [
+      "Drone",
+      "Innovation",
+      "Technology"
+    ],
+    "image": "./bgs/SKYNETRA_EXPO.png",
+    "fee": "1000",
+    "team_size": "4",
+    "description": "Explore cutting-edge drone technology, witness thrilling live demonstrations, and get hands-on experience with innovative drone systems at SKYNETRA, where creativity meets technology! SKYNETRA is a four-day technical event featuring expert sessions, hands-on workshops, live drone demonstrations, and exciting challenges.",
+    "tag_line": "Where Creativity Meets Technology!",
+    "rules": [
+      [
+        "Team Size: 2-4 members (Duo, Trio or Squad)",
+        "Date: 23nd February 2026",
+        "Time: 11:00 AM to 4:00 PM",
+        "Venue: Cricket Ground, SBJITMR",
+        "Entry Fee: 1000 per team",
+        "Prize Pool: 60,000",
+        "All team members must carry valid college ID cards",
+        "Decision of the judges will be final"
+      ]
+    ],
+    "prize": {
+      "first": "20000",
+      "second": "10000",
+      "third": "`"
+    },
+    "date": "23 February 2026",
+    "batch": [
+      {
+        "time": "11:00 AM",
+        "venue": "Cricket Ground, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "https://forms.gle/N6dZwJotKd3vawvw5"
+  },
+  {
+    "name": "Water Polo 2026",
+    "type": "Sports",
+    "tags": [
+      "Swimming",
+      "Team Sport",
+      "Inter-Department"
+    ],
+    "image": "./bgs/WATER_POLO.png",
+    "fee": "280/210",
+    "team_size": "7",
+    "description": "Compete in the Inter-Department Water Polo Competition with your team and showcase speed, skill, and teamwork in exciting matches! This thrilling aquatic sport brings together the best swimmers to compete for glory.",
+    "tag_line": "Dive In, Play Hard, Win Big!",
+    "rules": [
+      [
+        "Team must consist of 7 players (5 + 2 Substitutes)",
+        "Entry Fee:  280 (Men) /  210 (Women)",
+        "Date: 20th and 21st February 2026",
+        "Time: 11:00 AM to 4:00 PM",
+        "Venue: Swimming Pool, SBJITMR",
+        "Deadline for form submission: 12 Feb, 2026 5:30 PM",
+        "All participants must carry valid college ID cards",
+        "Standard water polo rules apply",
+        "Decision of the referees will be final"
+      ]
+    ],
+    "prize": {
+      "first": "3000",
+      "second": "2000",
+      "third": "-"
+    },
+    "date": "20-21 February 2026",
+    "batch": [
+      {
+        "time": "11:00 AM",
+        "venue": "Swimming Pool, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "https://forms.gle/JrbQVJ1XdWnVi2b18"
+  },
+  {
+    "name": "Squid Game 2.0",
+    "type": "Non-Technical",
+    "tags": [
+      "Fun",
+      "Games",
+      "Survival"
+    ],
+    "image": "./bgs/SQUID_GAME.png",
+    "fee": "50",
+    "team_size": "1",
+    "description": "Enter the ultimate survival game where every move counts. Trust no one, play smart, and fight to win it all!    Step into thrilling challenges designed just for YOU. Enjoy fun, fast-paced games that test your wits, speed, and strategy.",
+    "tag_line": "Survive the Game, Win the Glory!",
+    "rules": [
+      [
+        "Individual participation only",
+        "Entry Fee:  50 per person",
+        "Date: 23rd and 24th February 2026",
+        "Time: 11:00 AM to 3:00 PM",
+        "Venue: Cricket Ground, SBJITMR",
+        "Deadline for form submission: 20 Feb, 2026 till 5:00 PM",
+        "Multiple rounds of elimination games",
+        "Participants must follow game rules strictly",
+        "Fair play is mandatory - any misconduct leads to disqualification",
+        "Decision of the organizers will be final"
+      ]
+    ],
+    "prize": {
+      "first": "3333",
+      "second": "-",
+      "third": "-"
+    },
+    "date": "23-24 February 2026",
+    "batch": [
+      {
+        "time": "11:00 AM",
+        "venue": "Cricket Ground, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "https://forms.gle/zgadNvu3hfAWGKVt8"
+  },
+  {
+    "name": "Badminton 2026",
+    "type": "Sports",
+    "tags": [
+      "Badminton",
+      "Solo",
+      "Duo",
+      "Tournament"
+    ],
+    "image": "./bgs/BADMINTON.png",
+    "fee": "30",
+    "team_size": "1-2",
+    "description": "Smash, drop, and rally your way to victory!       Calling all badminton enthusiasts! We're excited to host the Inter-Department Badminton Competition featuring thrilling solo and duo matches. Get ready to showcase your skill, speed, and strategy on the court!",
+    "tag_line": "Smash Your Way to Victory!",
+    "rules": [
+      [
+        "Solo:  30 per head | Duo:  50 per team",
+        "Date: 20th and 21st February 2026",
+        "Time: 11:00 AM Onwards",
+        "Venue: Tennis Ground, SBJITMR",
+        "Deadline for form submission: 12 Feb, 2026 Till 5:00 PM",
+        "Solo Prize: Winner  500, Runner Up  300",
+        "Duo Prize: Winner  1000",
+        "Standard badminton rules apply",
+        "Participants must carry valid college ID cards",
+        "Knockout format will be followed",
+        "Decision of the referees will be final"
+      ]
+    ],
+    "prize": {
+      "first": "500-1000",
+      "second": "300",
+      "third": "-"
+    },
+    "date": "20-21 February 2026",
+    "batch": [
+      {
+        "time": "11:00 AM",
+        "venue": "Tennis Ground, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "https://forms.gle/8HTJVfrvy2jkFQCAA"
+  },
+  {
+    "name": "SKYNETRA 2026 - Aeroflying Program",
+    "type": "Technical",
+    "tags": [
+      "Drone",
+      "Flying",
+      "Learning"
+    ],
+    "image": "./bgs/SKYNETRA_WORKSHOP.png",
+    "fee": "100",
+    "team_size": "1",
+    "description": "The Skynetra Aeroflying Program is designed to introduce students to the exciting world of drone technology and automation through interactive sessions, live demonstrations, and hands-on exposure. The objective is to spark curiosity, enhance technical thinking, and provide early exposure to emerging technologies in a fun and engaging manner.",
+    "tag_line": "Learn. Fly. Innovate.",
+    "rules": [
+      [
+        "Individual participation",
+        "Students from 5th to 12th Standard",
+        "Entry Fee:  50 per person",
+        "Date: 21st-22nd February 2026",
+        "Time: 11:00 AM to 4:00 PM",
+        "Venue: SBJITMR",
+        "Hands-on experience with drones",
+        "Expert guidanq on drone Flying",
+        "All participants will receive Flying certificates"
+      ]
+    ],
+    "prize": {
+      "first": "-",
+      "second": "-",
+      "third": "-"
+    },
+    "date": "21st-22nd February 2026",
+    "batch": [
+      {
+        "time": "11:00 AM",
+        "venue": "SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "https://forms.gle/5TBXCBTaKpLFRdW77"
+  },
+  {
+    "name": "Festivo",
+    "type": "Non-Technical",
+    "tags": [
+      "Fun",
+      "Games",
+      "Survival"
+    ],
+    "image": "./bgs/FESTIVO.png",
+    "fee": "",
+    "team_size": "1",
+    "description": "A carnival is a fun-filled event that brings people together through colorful décor, engaging games, entertainment, and lively activities. It creates a joyful atmosphere that promotes relaxation, interaction, and a sense of celebration.",
+    "tag_line": "Where Fun Comes Alive!",
+    "rules": [
+      [
+        "Individual participation only",
+        "Entry Fee:  20 per person",
+        "Date: 21st to 23rd February 2026",
+        "Time: 11:00 AM to 3:00 PM",
+        "Venue: ETC Arena, SBJITMR",
+        "Deadline for form submission: No Deadline",
+        "Multiple Games with different themes",
+        "Participants must follow game rules strictly",
+        "Fair play is mandatory - any misconduct leads to disqualification",
+        "Decision of the organizers will be final"
+      ]
+    ],
+    "prize": {
+      "first": "3333",
+      "second": "-",
+      "third": "-"
+    },
+    "date": "21st to 23rd February 2026",
+    "batch": [
+      {
+        "time": "11:30 AM to 4:00 PM",
+        "venue": "ETC Arena, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "festivo-registration.html"
+  },
+  {
+    "name": "Game Zone 2026",
+    "type": "Non-Technical",
+    "tags": [
+      "Fun",
+      "Games",
+      "PS5",
+      "VR Games"
+    ],
+    "image": "./bgs/GAMEZONE.jpeg",
+    "fee": "",
+    "team_size": "1",
+    "description": "Game Zone is an interactive gaming arena featuring PS5 experiences, offering high-energy competitive and fun gameplay. Participants can enjoy popular console games in a professionally managed setup with timed slots, live scoring, and exciting rewards.",
+    "tag_line": "Play,Compete,Conquer",
+    "rules": [
+      [
+        "Individual participation only",
+        "Entry Fee:  PS-5 100/- for 30 min",
+        "Date: 21st to 23rd February 2026",
+        "Time: 11:00 AM to 5:30 PM",
+        "Venue: E108,MBA department, SBJITMR",
+        "Deadline for form submission: No Deadline",
+        "PS-5 Experience",
+        "Participants must follow game rules strictly",
+        "Fair play is mandatory - any misconduct leads to disqualification",
+        "Decision of the organizers will be final"
+      ]
+    ],
+    "prize": {
+      "first": "-",
+      "second": "-",
+      "third": "-"
+    },
+    "date": "21st to 23rd February 2026",
+    "batch": [
+      {
+        "time": "11:30 AM to 4:00 PM",
+        "venue": "E108,MBA department, SBJITMR"
+      }
+    ],
+    "incharge": [
+      {
+        "name": "Event Coordinator",
+        "email": "krishs.etc23d@sbjit.edu.in",
+        "phone": "9665947641"
+      }
+    ],
+    "instagram": "https://www.instagram.com/officialfeeta/",
+    "youtube": "https://www.youtube.com/@SBJITMR",
+    "register": "festivo-registration.html"
+  }
+]
