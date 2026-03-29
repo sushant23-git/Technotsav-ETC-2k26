@@ -7,7 +7,7 @@
 **The Official Website of Technotsav — Annual Technical & Cultural Fest**  
 *Chennai Institute of Technology · Electronics & Telecommunication Department*
 
-[![Live Website](https://img.shields.io/badge/🌐_Live_Website-Visit-blueviolet?style=for-the-badge)](https://technotsav.vercel.app)
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-Visit-blueviolet?style=for-the-badge)](https://techno-web-seven.vercel.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/sushant23-git/Technotsav-ETC-2k26?style=for-the-badge&color=gold)](https://github.com/sushant23-git/Technotsav-ETC-2k26/stargazers)
 [![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)](https://github.com/sushant23-git)
 
@@ -164,7 +164,7 @@ Then visit `http://localhost:8000` in your browser.
 <div align="center">
 
 **Sushant Gajbhiye**  
-Full Stack Developer · CIT Chennai
+Full Stack Developer ·
 
 [![GitHub](https://img.shields.io/badge/GitHub-sushant23--git-181717?style=flat-square&logo=github)](https://github.com/sushant23-git)
 
@@ -182,6 +182,6 @@ Please give proper credit if you use any part of this design or code.
 <div align="center">
 
 Made with ❤️ for **Technotsav 2026**  
-*Chennai Institute of Technology — ETC Department*
+
 
 </div>
